@@ -1,5 +1,5 @@
 
-# PartGen3D: Structured Part-Level Mesh Generation from a Single Image
+# PartGen3D: Simple Structured Mesh Generation from a Single Image
 This project demonstrates a simple workflow to generate structured 3D meshes from a single RGB image and support part editing. It's built upon awesome works in the community like Hunyuan3D/TRELLIS/HoloPart/PartField etc.
 
 ### Video Demo
