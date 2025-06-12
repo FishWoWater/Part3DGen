@@ -1,0 +1,12 @@
+[submodule "thirdparty/TRELLIS"]
+	path = thirdparty/TRELLIS
+	url = https://github.com/FishWoWater/TRELLIS
+[submodule "thirdparty/HoloPart"]
+	path = thirdparty/HoloPart
+	url = https://github.com/VAST-AI-Research/HoloPart
+[submodule "thirdparty/Hunyuan3D-2"]
+	path = thirdparty/Hunyuan3D-2
+	url = https://github.com/Tencent-Hunyuan/Hunyuan3D-2
+[submodule "thirdparty/PartField"]
+	path = thirdparty/PartField
+	url = https://github.com/nv-tlabs/PartField
